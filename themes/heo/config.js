@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '欢迎',
-  HEO_HERO_TITLE_5: 'kewei's blog',
+  HEO_HERO_TITLE_5: "kewei's blog",
   HEO_HERO_TITLE_LINK: 'https://blog.1567890.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
